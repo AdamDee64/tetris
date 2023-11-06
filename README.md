@@ -2,3 +2,6 @@ My own implementation of tetris in C with the help of Raylib. Written summer 202
 
 https://www.raylib.com
 
+<picture>
+ <img alt="TETRIS_SCREENSHOT" src="screenshot.png">
+</picture>
